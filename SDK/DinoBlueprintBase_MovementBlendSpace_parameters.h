@@ -1,0 +1,186 @@
+#pragma once
+
+#include "../SDK.h"
+
+// Name: ARKSotF, Version: 178.8.0
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x8)
+#endif
+
+namespace SDK
+{
+//---------------------------------------------------------------------------
+// Parameters
+//---------------------------------------------------------------------------
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.BlueprintPlayAnimationEvent
+struct UDinoBlueprintBase_MovementBlendSpace_C_BlueprintPlayAnimationEvent_Params
+{
+	class UAnimMontage**                               AnimationMontage;                                         // (Parm, ZeroConstructor, IsPlainOldData)
+	float*                                             PlayRate;                                                 // (Parm, ZeroConstructor, IsPlainOldData)
+	float                                              playedAnimLength;                                         // (Parm, OutParm, ZeroConstructor, IsPlainOldData)
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_516
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_516_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_ModifyBone_150
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_ModifyBone_150_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_515
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_515_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_514
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_514_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_513
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_513_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_512
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_512_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_909
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_909_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_RotationOffsetBlendSpace_42
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_RotationOffsetBlendSpace_42_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_908
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_908_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_511
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_511_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_510
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_510_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_907
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_907_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_906
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_906_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_509
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_509_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_508
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_508_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_507
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_507_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_ModifyBone_149
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_ModifyBone_149_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_506
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_506_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_505
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_505_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_904
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_904_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_903
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_903_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_504
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_504_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_GroundBones_24
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_GroundBones_24_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_GroundBones_23
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_GroundBones_23_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_ApplyAdditive_36
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_ApplyAdditive_36_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_503
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_503_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendSpacePlayer_24
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendSpacePlayer_24_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_901
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_SequencePlayer_901_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_502
+struct UDinoBlueprintBase_MovementBlendSpace_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_AnimGraphNode_BlendListByBool_502_Params
+{
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.BlueprintUpdateAnimation
+struct UDinoBlueprintBase_MovementBlendSpace_C_BlueprintUpdateAnimation_Params
+{
+	float*                                             DeltaTimeX;                                               // (Parm, ZeroConstructor, IsPlainOldData)
+};
+
+// Function DinoBlueprintBase_MovementBlendSpace.DinoBlueprintBase_MovementBlendSpace_C.ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace
+struct UDinoBlueprintBase_MovementBlendSpace_C_ExecuteUbergraph_DinoBlueprintBase_MovementBlendSpace_Params
+{
+	int                                                EntryPoint;                                               // (Parm, ZeroConstructor, IsPlainOldData)
+};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif
